@@ -5,12 +5,9 @@
     android:layout_height="match_parent">
 
     <GridView
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:id="@+id/mygrid"
-
-
         android:numColumns="3"
-        android:layout_height="match_parent"
-        android:layout_marginLeft="20sp"
+        android:layout_height="wrap_content"
         />
 </LinearLayout>
